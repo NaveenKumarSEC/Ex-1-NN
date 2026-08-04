@@ -29,12 +29,18 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-STEP 1:Importing the libraries<BR>
-STEP 2:Importing the dataset<BR>
-STEP 3:Taking care of missing data<BR>
-STEP 4:Encoding categorical data<BR>
-STEP 5:Normalizing the data<BR>
-STEP 6:Splitting the data into test and train<BR>
+STEP 1: Importing the Libraries: Import the required Python libraries needed for data analysis and machine learning.<BR>
+
+STEP 2: Importing the Dataset: Load the dataset into the program for processing and analysis.<BR>
+
+STEP 3: Taking Care of Missing Data: Handle missing values by removing or replacing them with suitable values.<BR>
+
+STEP 4: Encoding Categorical Data: Convert categorical (text) data into numerical format for machine learning models.<BR>
+
+STEP 5: Normalizing the Data: Scale the features to a common range to improve model performance.<BR>
+
+STEP 6: Splitting the Data into Training and Testing Sets: Divide the dataset into training and testing sets to train and evaluate the model.<BR>
+
 
 ##  PROGRAM:
 ```
