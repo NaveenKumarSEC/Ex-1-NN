@@ -43,7 +43,7 @@ STEP 6: Splitting the Data into Training and Testing Sets: Divide the dataset in
 
 
 ##  PROGRAM:
-```
+```python
 import io
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
